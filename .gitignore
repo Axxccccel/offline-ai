@@ -1,0 +1,8 @@
+models/
+*.gguf
+build/
+dist/
+*.bak
+debug.log
+__pycache__/
+release/
